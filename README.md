@@ -15,3 +15,24 @@
 ```
 pip install numpy opencv-python matplotlib
 ```
+
+### 2. Open VS Code:
+- Launch VS Code and open the folder where you want to save your script.
+- Create a new Python file (e.g., image_gradient.py) and copy-paste the code into it.
+
+### 3. Add the Image File:
+- Ensure the image file (Captain.jpg) is in the same directory as your Python script or provide the correct path to it.
+
+### 4. Run the Script:
+- Open the integrated terminal in VS Code (`Ctrl + `` or View > Terminal).
+- Run the script by typing:
+```
+python image_gradient.py
+```
+
+### 5. View Outputs:
+- The script will open multiple image windows for display, and the processed images will be saved in the current directory.
+- Close the image windows by pressing any key or using the close button.
+
+
+
