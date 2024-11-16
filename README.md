@@ -8,6 +8,11 @@
 - Analyze image gradients (changes in brightness or color) to highlight important areas.
 - Enhance object recognition by making edges and contours more visible.
 
+## Uses of Edge Detection techniques
+- Object Detection for security and autonomous vehicles
+- Medical Imaging to highlights the scaning areas for diagnosis report
+- Facial Recognition to detect facial features accurately
+
 ## Run this Python File Step-by-step Guide for VS Code:
 ### 1. Install Python and Libraries:
 - Ensure Python is installed on your computer. You can download it from [python.org](https://www.python.org/).
