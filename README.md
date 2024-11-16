@@ -7,3 +7,11 @@
 - Understand and apply edge detection techniques to identify shapes and boundaries in images.
 - Analyze image gradients (changes in brightness or color) to highlight important areas.
 - Enhance object recognition by making edges and contours more visible.
+
+## Run this Python File Step-by-step Guide for VS Code:
+### 1. Install Python and Libraries:
+- Ensure Python is installed on your computer. You can download it from python.org.
+- Open the terminal or command prompt and install the required libraries using pip:
+```
+pip install numpy opencv-python matplotlib
+```
