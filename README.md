@@ -53,5 +53,8 @@ python image_gradient.py
 ### 5. Interact with the Windows:
 - The image windows will pop up. Interact as needed, then close them to end the program.
 
+## Final Output 
+![Final Output](https://github.com/user-attachments/assets/9d6f38a3-1025-49a7-954d-3336b0f3dede)
+
 
 
