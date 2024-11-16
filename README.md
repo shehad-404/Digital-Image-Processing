@@ -12,7 +12,6 @@
 ### 1. Install Python and Libraries:
 - Ensure Python is installed on your computer. You can download it from python.org.
 - Open the terminal or command prompt and install the required libraries using pip:
-**Copy Code**
 ```
 pip install numpy opencv-python matplotlib
 ```
