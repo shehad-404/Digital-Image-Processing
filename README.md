@@ -58,6 +58,30 @@ python image_gradient.py
 ### 5. Interact with the Windows:
 - The image windows will pop up. Interact as needed, then close them to end the program.
 
+## Gray Image
+![output_Gray](https://github.com/user-attachments/assets/1cde9a38-1ef1-4a56-ae06-06fa088196c4)
+
+## Laplacian 
+![output_Laplacian](https://github.com/user-attachments/assets/a331e7d5-8942-4b83-bf13-ae07660f787b)
+
+## Sobel X 
+![output_Sobel X](https://github.com/user-attachments/assets/5ef088f7-bca5-412f-bd0b-9e6eedb373d0)
+
+## Sobel Y
+![output_Sobel Y](https://github.com/user-attachments/assets/da103047-e620-4c81-8356-ab7973ed8808)
+
+## Sobel Combined
+![output_Combined Sobel](https://github.com/user-attachments/assets/63ac493f-a42a-4fa4-98a2-8e00f8d7cb9f)
+
+## Canny Edge Detection 
+![output_Canny](https://github.com/user-attachments/assets/be209d74-2acb-422a-a9bf-f9efb5c6a27f)
+
+## Theresholding
+![output_Thresholded](https://github.com/user-attachments/assets/40eb7505-480a-455e-ade4-3679db4082ce)
+
+# Gradient Magnitude & Direction
+![output_Gradient Magnitude](https://github.com/user-attachments/assets/531d5427-dbfa-409d-a423-0b32d0f238c2)
+
 ## Final Output 
 ![Final Output](https://github.com/user-attachments/assets/9d6f38a3-1025-49a7-954d-3336b0f3dede)
 
