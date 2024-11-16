@@ -10,7 +10,7 @@
 
 ## Run this Python File Step-by-step Guide for VS Code:
 ### 1. Install Python and Libraries:
-- Ensure Python is installed on your computer. You can download it from [python.org](#https://www.python.org/)
+- Ensure Python is installed on your computer. You can download it from [python.org](https://www.python.org/).
 - Open the terminal or command prompt and install the required libraries using pip:
 ```
 pip install numpy opencv-python matplotlib
