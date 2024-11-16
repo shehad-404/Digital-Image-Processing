@@ -35,4 +35,23 @@ python image_gradient.py
 - Close the image windows by pressing any key or using the close button.
 
 
+## Run this Python File Step-by-step Guide for Spyder in Anaconda:
+### 1. Install Python and Libraries:
+- Ensure Python is installed on your computer. You can download it from [python.org](https://www.python.org/).
+- Make sure Python is installed and install the required libraries as mentioned above.
+
+### 2. Open Spyder:
+- Launch Spyder (usually installed as part of the Anaconda distribution or independently).
+- Create a new file and paste the code into the editor.
+
+### 3. Add the Image File:
+- Place Captain.jpg in the working directory of Spyder or specify the full path in the code.
+
+### 4. Run the Script:
+- Press the green Run button or use the F5 key to execute the code.
+
+### 5. Interact with the Windows:
+- The image windows will pop up. Interact as needed, then close them to end the program.
+
+
 
