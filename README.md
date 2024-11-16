@@ -18,7 +18,7 @@ pip install numpy opencv-python matplotlib
 
 ### 2. Open VS Code:
 - Launch VS Code and open the folder where you want to save your script.
-- Create a new Python file (e.g., image_gradient.py) and copy-paste the code into it.
+- Create a new Python file (e.g., Image_Gradient_and_Edge_Detection.py) and copy-paste the code into it.
 
 ### 3. Add the Image File:
 - Ensure the image file (Captain.jpg) is in the same directory as your Python script or provide the correct path to it.
